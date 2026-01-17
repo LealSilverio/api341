@@ -1,0 +1,20 @@
+// Localhost
+
+Get http://localhost:3000/contacts
+
+Get http://localhost:3000/contacts/696be0a677b572c6bfc9f122
+
+Get http://localhost:3000/contacts/696be14377b572c6bfc9f123
+
+Get http://localhost:3000/contacts/696be18477b572c6bfc9f124
+
+
+// Render
+
+Get https://api341.onrender.com/contacts
+
+Get https://api341.onrender.com/contacts/696be0a677b572c6bfc9f122
+
+Get https://api341.onrender.com/contacts/696be14377b572c6bfc9f123
+
+Get https://api341.onrender.com/contacts/696be18477b572c6bfc9f124
